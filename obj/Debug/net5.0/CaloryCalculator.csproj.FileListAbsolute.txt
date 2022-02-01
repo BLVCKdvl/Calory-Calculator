@@ -1,0 +1,16 @@
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.exe
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.deps.json
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.runtimeconfig.json
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.runtimeconfig.dev.json
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.dll
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\ref\CaloryCalculator.dll
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\bin\Debug\net5.0\CaloryCalculator.pdb
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.AssemblyInfoInputs.cache
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.AssemblyInfo.cs
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.dll
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\ref\CaloryCalculator.dll
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.pdb
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.genruntimeconfig.cache
+C:\Users\SomeDmitry\source\repos\Calory_Calculator\obj\Debug\net5.0\CaloryCalculator.csproj.AssemblyReference.cache
